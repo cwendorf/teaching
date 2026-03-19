@@ -1,7 +1,5 @@
 # [`Teaching Portfolio`](../README.md)
 
-| [Foundations](../foundations/README.md) | **Assessment** | [Mentoring](../mentoring/README.md) |
-
 ## Grading and Assessment
 
 ### Grading System

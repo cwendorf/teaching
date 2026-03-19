@@ -1,7 +1,5 @@
 # [`Teaching Portfolio`](../README.md)
 
-| **Foundations** | [Assessment](../assessment/README.md) | [Mentoring](../mentoring/README.md) |
-
 ## Teaching Foundations
 
 ### Teaching Approach
