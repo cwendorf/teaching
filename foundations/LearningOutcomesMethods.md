@@ -10,18 +10,13 @@ Learning outcomes are descriptions of what students should be able to know and d
 
 ### Relevant Local and National Learning Outcomes
 
-The American Psychological Association (APA, 2013) offers a list of student learning outcomes for all psychology curricula. For research methods courses, the following outcomes are particularly relevant. Students completing this course should be able to:
+The American Psychological Association (APA, 2023) offers a list of student learning outcomes for all psychology curricula. For research methods courses, the following outcomes are particularly relevant. Students completing this course should be able to:
 
-- Demonstrate psychology information literacy (APA Outcome 2.4) – This includes several subordinate outcomes that involve finding and summarizing legitimate sources of information. 
-- Interpret, design, and conduct basic psychological research (APA Outcome 2.4) – This includes several subordinate outcomes that involve describing different types of research designs and their uses.
-- Demonstrate effective writing for different purposes (APA Outcome 4.1) – This includes several subordinate outcomes that involve proper organization, structure, and grammar of written work.
+- Provide evidence of psychological literacy (APA Outcome 4.3) - This includes several subordinate outcomes that involve finding and summarizing legitimate sources of information.
+- Interpret, design, and evaluate psychological research (APA Outcome 2.2) - This includes several subordinate outcomes that involve describing different types of research designs and their uses.
+- Write and present effectively for different purposes (APA Objective 4.2) – This includes several subordinate outcomes that involve using appropriate spelling, grammar, and style in scientific writing.
 
-The University of Wisconsin – Stevens Point (2017) specifies two learning outcomes that are particularly relevant to all Communication in the Major courses (which includes Research Methods in Psychology). Students completing this course should be able to:
-
-- Apply discipline specific standards of oral and written communication to compose an articulate, grammatically correct, and organized presentation/piece of writing with properly documented and supported ideas, evidence, and information suitable to the topic, purpose, and audience. (UWSP GEP COMM Outcome 1) 
-- Critique their own and others’ writing/oral presentations to provide effective and useful feedback to improve their communication. (UWSP GEP COMM Outcome 2)
-
-Finally, the UWSP Department of Psychology adopted the following learning outcomes in order to meet the Communication in the Major outcomes outlined above:
+Finally, the UWSP Department of Psychology adopted the following Communication in the Major learning outcomes:
 
 - Find, read, and describe scholarly works (e.g., peer reviewed journal articles, book chapters, etc.) to identify relevant information and assess the quality of research evidence for a topic. (UWSP PSYC COMM Outcome 1)
 - Write an original APA-style paper (as an individual or as a group) of at least one of the following types as relevant to the topic: literature review; empirical study proposal, report, or poster; or grant proposal. (UWSP PSYC COMM Outcome 2)
@@ -51,10 +46,10 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
 
 ## References
 
-American Psychological Association. (2013). *APA guidelines for the undergraduate psychology major (Version 2.0).* Washington, DC: Author. Retrieved from www http://www.apa.org/ed/precollege/about/psymajor-guidelines.aspx
+American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. Retrieved from [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
 
-University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* Retrieved from http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx
+University of Wisconsin – Stevens Point. (2026). *CORE General education requirements.* Retrieved from [https://www3.uwsp.edu/cger/Pages/default.aspx](https://www3.uwsp.edu/cger/Pages/default.aspx)
 
-Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from https://cwendorf.github.io/teaching/Wendorf-GradingRubricExplanation.pdf
+Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from [https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md](https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md)

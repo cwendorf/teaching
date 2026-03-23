@@ -10,23 +10,24 @@ Learning outcomes are descriptions of what students should be able to know and d
 
 ### Relevant Local and National Learning Outcomes
 
-The American Psychological Association (APA, 2013) offers a list of student learning outcomes for all psychology curricula. For my content courses, the following outcomes are particularly relevant. Students completing this course should be able to:
+The American Psychological Association (APA, 2023) offers a list of student learning outcomes for all psychology curricula. For my content courses, the following outcomes are particularly relevant. Students completing this course should be able to:
 
-- Describe key concepts, principles, and overarching themes in psychology (APA Objective 1.1) – This includes several subordinate outcomes that involve learning the basics of the discipline.
-- Describe applications of psychology (APA Objective 1.3) – This includes several subordinate outcomes that involve understanding the application of the discipline to personal issues, social needs, and applied settings.
-- Use scientific reasoning to interpret psychological phenomena (APA Objective 2.1) – This includes several subordinate outcomes that involves the use of reasoned principles and empirical data to interpretations.
-- Demonstrate effective writing for different purposes (APA Objective 4.1) – This includes several subordinate outcomes that involve using appropriate spelling, grammar, and style in scientific writing.
+- Describe key concepts, principles, and theories in psychological science (APA Objective 1.1) – This includes several subordinate outcomes that involve learning the basics of the discipline.
+- Apply psychological content to solve practical problems (APA Objective 1.4) – This includes several subordinate outcomes that involve understanding the application of the discipline to personal issues, social needs, and applied settings.
+- Exercise scientific reasoning to investigate psychological phenomena (APA Objective 2.1) – This includes several subordinate outcomes that involves the use of reasoned principles and empirical data to interpretations.
+- Write and present effectively for different purposes (APA Objective 4.2) – This includes several subordinate outcomes that involve using appropriate spelling, grammar, and style in scientific writing.
 
-Importantly, the American Psychological Association (APA, 2013) learning outcomes maintain a sociocultural focus throughout the entire listing of program outcomes. Nonetheless, the following outcomes are particularly relevant to this course. Students completing this course should be able to:
+Importantly, the American Psychological Association (APA, 2023) learning outcomes maintain a sociocultural focus throughout the entire listing of program outcomes. Nonetheless, the following outcomes are particularly relevant to this course. Students completing this course should be able to:
 
-- Incorporate sociocultural factors into scientific inquiry (APA Outcome 2.5) – This includes several subordinate outcomes that involve identifying how cultural factors can influence psychological theory and research.
-- Adopt values that build community at local, national, and global levels (APA Outcome 3.3) – This includes several subordinate outcomes that involve understanding the importance and functioning of diversity.
+- Incorporate sociocultural factors in scientific research practices (APA Outcome 2.3) - This includes several subordinate outcomes that involve identifying how cultural factors can influence psychological theory and research.
+- Develop and practice interpersonal and intercultural responsiveness (APA Outcome 3.2) - This includes several subordinate outcomes that involve understanding the importance and functioning of diversity.
 
-The University of Wisconsin – Stevens Point (2017) specifies three learning outcomes that are particularly relevant to all U.S. Diversity courses (which includes this course). Students completing this course should be able to:
+Finally, as a Capstone course in the Major, the UWSP Department of Psychology requires the following learning outcomes:
 
-- Describe how people or institutions in the United States have constructed diverse identities and cultures based on ability, ethnicity, gender, language, nationality, race, religion, sexuality, socio-economic status, etc. (UWSP GEP USD Outcome 1)
-- Explain how individuals or groups in the United States have responded to the experience of discrimination and inequality. (UWSP GEP USD Outcome 2)
-- Demonstrate understanding of and empathetic insight about diverse cultural perspectives in the United States. (UWSP GEP USD Outcome 3)
+- Discuss an integrated perspective on psychological issues (i.e., combine insights from more than one discipline or subdiscipline within Psychology)
+- Find, read, and describe scholarly works (e.g., peer reviewed journal articles, book chapters, etc.)
+- Participate in classroom discussions and give at least one (individual or group) presentation from among the following: discussion leader; panel discussion; or conference-style presentation.
+- Write an original paper or papers (as an individual or as a group) of at least one of the following types as relevant to the topic: literature review; empirical study proposal, report, or poster; grant proposal; case study or report; or methodological critique. All papers will use relevant APA style. Some of the papers will require revision.
 
 ### Specific Learning Outcomes for My Course
 
@@ -54,10 +55,10 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
  
 ## References
 
-American Psychological Association. (2013). *APA guidelines for the undergraduate psychology major (Version 2.0).* Washington, DC: Author. Retrieved from www http://www.apa.org/ed/precollege/about/psymajor-guidelines.aspx
+American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. Retrieved from [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
 
 University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* Retrieved from http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx
 
-Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from https://cwendorf.github.io/teaching/Wendorf-GradingRubricExplanation.pdf
+Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from [https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md](https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md)

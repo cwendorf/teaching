@@ -16,10 +16,10 @@ The University of Wisconsin – Stevens Point (2017) specifies three learning ou
 - Identify and apply appropriate strategies of quantitative problem solving in theoretical and practical applications. (UWSP GEP QL Outcome 2)
 - Construct a conclusion using quantitative justification. (UWSP GEP QL Outcome 3)
 
-Similarly, the American Psychological Association (APA, 2013) offers a list of student learning outcomes for all psychology curricula. For statistics courses, the following outcomes are particularly relevant. Students completing this course should be able to:
+Similarly, the American Psychological Association (APA, 2023) offers a list of student learning outcomes for all psychology curricula. For statistics courses, the following outcomes are particularly relevant. Students completing this course should be able to:
 
-- Interpret complex statistical findings and graphs in the context of their level of statistical significance, including the influence of effect size, and explain these findings using a common language. (APA Outcome 2.2E)
-- Communicate quantitative data in statistics, graphs, and tables. (APA Outcome 4.1F)
+- Use statistics to evaluate quantitative research findings (APA Outcome 2.4) - This includes several subordinate outcomes that involve the application and interpretation of statistics.
+- Provide evidence of psychological literacy (APA Outcome 4.3) - This includes several subordinate outcomes that pertain to the intepretation and communication of evidence.
 
 Finally, a Statistical Literacy Task Force (2014) proposed 26 more specific and detailed learning outcomes for statistics and methodology courses within Psychology. However, these outcomes are not policy approved by APA or by UWSP and are, therefore, not elaborated on here. They were, however, taken into consideration during the creation of my course.
 
@@ -45,12 +45,12 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
 
 ## References
 
-American Psychological Association. (2013). *APA guidelines for the undergraduate psychology major (Version 2.0).* Washington, DC: Author. Retrieved from www http://www.apa.org/ed/precollege/about/psymajor-guidelines.aspx
+American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. Retrieved from [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
 
-Statistical Literacy Task Force. (2014). *Statistical literacy in the undergraduate psychology curriculum.* Retrieved from http://teachpsych.org/Resources/Documents/otrp/resources/statistics/STP_Statistical%20Literacy_Psychology%20Major%20Learning%20Goals_4-2014.pdf
+Statistical Literacy Task Force. (2014). *Statistical literacy in the undergraduate psychology curriculum.* Retrieved from [http://teachpsych.org/Resources/Documents/otrp/resources/statistics/STP_Statistical%20Literacy_Psychology%20Major%20Learning%20Goals_4-2014.pdf](http://teachpsych.org/Resources/Documents/otrp/resources/statistics/STP_Statistical%20Literacy_Psychology%20Major%20Learning%20Goals_4-2014.pdf)
 
 University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* Retrieved from http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx
 
-Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from https://cwendorf.github.io/teaching/Wendorf-GradingRubricExplanation.pdf
+Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from [https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md](https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md)

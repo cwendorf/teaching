@@ -10,21 +10,21 @@ Learning outcomes are descriptions of what students should be able to know and d
 
 ### Relevant National Learning Outcomes
 
-The American Psychological Association (APA, 2013) offers a list of student learning outcomes for all psychology curricula. For my content courses, the following outcomes are particularly relevant. Students completing this course should be able to:
+The American Psychological Association (APA, 2023) offers a list of student learning outcomes for all psychology curricula. For my content courses, the following outcomes are particularly relevant. Students completing this course should be able to:
 
-- Describe key concepts, principles, and overarching themes in psychology (APA Objective 1.1) – This includes several subordinate outcomes that involve learning the basics of the discipline.
-- Describe applications of psychology (APA Objective 1.3) – This includes several subordinate outcomes that involve understanding the application of the discipline to personal issues, social needs, and applied settings.
-- Use scientific reasoning to interpret psychological phenomena (APA Objective 2.1) – This includes several subordinate outcomes that involves the use of reasoned principles and empirical data to interpretations.
-- Demonstrate effective writing for different purposes (APA Objective 4.1) – This includes several subordinate outcomes that involve using appropriate spelling, grammar, and style in scientific writing.
+- Describe key concepts, principles, and theories in psychological science (APA Objective 1.1) – This includes several subordinate outcomes that involve learning the basics of the discipline.
+- Apply psychological content to solve practical problems (APA Objective 1.4) – This includes several subordinate outcomes that involve understanding the application of the discipline to personal issues, social needs, and applied settings.
+- Exercise scientific reasoning to investigate psychological phenomena (APA Objective 2.1) – This includes several subordinate outcomes that involves the use of reasoned principles and empirical data to interpretations.
+- Write and present effectively for different purposes (APA Objective 4.2) – This includes several subordinate outcomes that involve using appropriate spelling, grammar, and style in scientific writing.
 
 ### Specific Learning Outcomes for My Course
 
 I have outlined specific learning outcomes that are designed to reflect the APA learning outcomes described above. Specifically, students completing this course will:
 
 - Explain the key characteristics of various theories and approaches to understanding human personality, including their respective advantages and disadvantages. (Aligns with APA Objective 1.1)
-- Apply concepts from the psychology of personality to an understanding of one’s own personality functioning. (Aligns with APA Objective 1.3)
+- Apply concepts from the psychology of personality to an understanding of one’s own personality functioning. (Aligns with APA Objective 1.4)
 - Examine and interpret psychological research as it pertains to the understanding, critique, and development of theories and concepts in personality psychology. (Aligns with APA Objective 2.1)
-- Demonstrate effective writing that communicates the understanding, application, and interpretation of personality psychology principles and research. (Aligns with APA Objective 4.1)
+- Demonstrate effective writing that communicates the understanding, application, and interpretation of personality psychology principles and research. (Aligns with APA Objective 4.2)
 
 ### How the Learning Outcomes are Addressed and Assessed in My Course 
 
@@ -41,8 +41,8 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
 
 ## References
 
-American Psychological Association. (2013). *APA guidelines for the undergraduate psychology major (Version 2.0).* Washington, DC: Author. Retrieved from www http://www.apa.org/ed/precollege/about/psymajor-guidelines.aspx
+American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. Retrieved from [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
 
-Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from https://cwendorf.github.io/teaching/Wendorf-GradingRubricExplanation.pdf
+Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from [https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md](https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md)
