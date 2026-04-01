@@ -22,11 +22,12 @@ Importantly, the American Psychological Association (APA, 2023) learning outcome
 - Incorporate sociocultural factors in scientific research practices (APA Outcome 2.3) - This includes several subordinate outcomes that involve identifying how cultural factors can influence psychological theory and research.
 - Develop and practice interpersonal and intercultural responsiveness (APA Outcome 3.2) - This includes several subordinate outcomes that involve understanding the importance and functioning of diversity.
 
-The University of Wisconsin – Stevens Point (2017) specifies three learning outcomes that are particularly relevant to all U.S. Diversity courses (which includes this course). Students completing this course should be able to:
+Finally, as a Capstone course in the Major, the UWSP Department of Psychology requires the following learning outcomes:
 
-- Describe how people or institutions in the United States have constructed diverse identities and cultures based on ability, ethnicity, gender, language, nationality, race, religion, sexuality, socio-economic status, etc. (UWSP GEP USD Outcome 1)
-- Explain how individuals or groups in the United States have responded to the experience of discrimination and inequality. (UWSP GEP USD Outcome 2)
-- Demonstrate understanding of and empathetic insight about diverse cultural perspectives in the United States. (UWSP GEP USD Outcome 3)
+- Discuss an integrated perspective on psychological issues (i.e., combine insights from more than one discipline or subdiscipline within Psychology)
+- Find, read, and describe scholarly works (e.g., peer reviewed journal articles, book chapters, etc.)
+- Participate in classroom discussions and give at least one (individual or group) presentation from among the following: discussion leader; panel discussion; or conference-style presentation.
+- Write an original paper or papers (as an individual or as a group) of at least one of the following types as relevant to the topic: literature review; empirical study proposal, report, or poster; grant proposal; case study or report; or methodological critique. All papers will use relevant APA style. Some of the papers will require revision.
 
 ### Specific Learning Outcomes for My Course
 
