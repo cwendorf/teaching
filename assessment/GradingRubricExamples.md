@@ -24,7 +24,7 @@ What is a standardized score and how is it interpreted? Answer the question by d
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | **&#9745; Inappropriate <br/>&#9745; Incorrect <br/>&#9745; Incomplete** | [] Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Theories & Concepts (0-3 Points) | **&#9745; Inappropriate <br/>&#9745; Incorrect <br/>&#9745; Incomplete** | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
