@@ -69,11 +69,11 @@ Worksheet-based questions are relatively simple tasks that are generally appropr
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
+| Applications & Evidence (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usuage <br/>[ ] Poor Integration | [ ] Proper Format <br/>[ ] Few or No Errors <br/>[ ] Good Integration |
+| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usuage <br/>&#9744; Poor Integration | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
 
 ### Specific Criteria for Statistics Problems
 
@@ -81,11 +81,11 @@ A similar version is used for a typical story-based problem in Statistics, where
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Procedure & Solution (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
+| Procedure & Solution (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usuage <br/>[ ] Poor Integration | [ ] Proper Format <br/>[ ] Few or No Errors <br/>[ ] Good Integration |
+| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usuage <br/>&#9744; Poor Integration | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
 
 ### Specific Criteria for Shorter Essays 
 
@@ -93,11 +93,11 @@ Short essays are generally appropriate for homework assignments and exams. Here 
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
+| Theories & Concepts (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usuage <br/>[ ] Poor Integration | [ ] Proper Format <br/>[ ] Few or No Errors <br/>[ ] Good Integration |
+| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usuage <br/>&#9744; Poor Integration | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
 
 ### Specific Criteria for Longer Papers
 
@@ -105,8 +105,8 @@ As a final example, a relatively longer essay/paper would be generally appropria
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
-| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail |  
-| Interpretation & Conclusion (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
-| Clarity & Structure (0-3 Points) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] No Integration | [ ] Inadequate Format <br/>[ ] Major Errors <br/>[ ] Haphazard Integration | [ ] Inconsistent Format <br/>[ ] Minor Errors <br/>[ ] Adequate Integration | [ ] Proper Format <br/>[ ] Minimal Errors <br/>[ ] Good Integration |
-| Citations & References (0-3 Points) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] No Integration | [ ] Inadequate Format <br/>[ ] Major Errors <br/>[ ] Haphazard Integration | [ ] Inconsistent Format <br/>[ ] Minor Errors <br/>[ ] Adequate Integration | [ ] Proper Format <br/>[ ] Minimal Errors <br/>[ ] Good Integration |
+| Theories & Concepts (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Applications & Evidence (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |  
+| Interpretation & Conclusion (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Clarity & Structure (0-3 Points) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; No Integration | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Haphazard Integration | &#9744; Inconsistent Format <br/>&#9744; Minor Errors <br/>&#9744; Adequate Integration | &#9744; Proper Format <br/>&#9744; Minimal Errors <br/>&#9744; Good Integration |
+| Citations & References (0-3 Points) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; No Integration | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Haphazard Integration | &#9744; Inconsistent Format <br/>&#9744; Minor Errors <br/>&#9744; Adequate Integration | &#9744; Proper Format <br/>&#9744; Minimal Errors <br/>&#9744; Good Integration |
