@@ -14,6 +14,6 @@ I am a Professor of Psychology at the University of Wisconsin - Stevens Point (U
 
 This repository contains materials related to my teaching, mentoring, and course administration. The documents are intended to clarify expectations for students, provide transparency in evaluation, and support reusable instructional practices across courses and semesters. Materials are organized into four areas:
 
-- **[Foundations](./foundations/README.md)**: Teaching philosophy, learning strategies, couse learning outcomes
+- **[Foundations](./foundations/README.md)**: Teaching philosophy, learning strategies, course learning outcomes
 - **[Assessment](./assessment/README.md)**: Grading approaches, rubrics, and annotated examples
 - **[Mentoring](./mentoring/README.md)**: Independent study and student research projects
