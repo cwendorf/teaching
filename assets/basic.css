@@ -89,6 +89,7 @@ body {
     margin: 20px 0px;
     padding: 0px 0px 20px 0px;
     color: #000;
+    border-bottom: 1px solid #000;
 }
 #MainContent H3 {
     font-size: 20px;
@@ -97,7 +98,6 @@ body {
     margin: 20px 0px;
     padding: 0px 0px 0px 0px;
     color: #222;
-    border-bottom: 1px solid #222;
 }
 #MainContent H4 {
     font-size: 18px;
