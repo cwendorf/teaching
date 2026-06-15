@@ -62,7 +62,6 @@ body {
     text-align: center;
 }
 #AreaContent A {
-    background: rgba(255,255,255,0.25);
     text-decoration: none;
     border-bottom: 2px solid transparent;
     font-size: 24px;
@@ -85,14 +84,14 @@ body {
     margin: 20px 0px;
     padding: 0px;
     color: #000;
+    border-bottom: 1px solid #000;
 }
 #MainContent H2 {
-    font-size: 22px; 
+    font-size: 20px; 
     font-weight: 800;
     clear: both;
     margin: 20px 0px;
     padding: 0px 0px 20px 0px;
-    border-bottom: 1px solid #222;
     color: #222;
 }
 #MainContent H3 {
@@ -159,70 +158,43 @@ body {
 
 /* Main Section Column Styles */
 
-#Main, #Sidebar {
-    display: block; 
-    width: 100%;
-}
-
-#Main table {
+#MainContent table {
     display: block;
     width: 100%; 
     overflow: auto;
     border-spacing: 0;
     border-collapse: collapse;
 }
-#Main thead th {
+#MainContent thead th {
     background: #eee;
 }
-#Main table th, #MainContainer table td {
+#MainContent table th, #MainContent table td {
     padding: 5px 10px;
     border: 1px solid #ddd;
 }
-#Main blockquote, #Main pre {
+#MainContent blockquote, #MainContent pre {
     padding: 5px 10px;
     color: #666;
     border-left: 2px solid #ddd;
     margin-left: 20px;
     margin-right: 20px;
 }
-#Main pre {
+#MainContent pre {
     overflow: auto;
     background-color: #f1f1f1;
     border: none;
     border-radius: 2px;
     font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
 }
-#Main p, #Main blockquote, #Main ul, #Main ol, #Main dl, #Main table, #Main pre {
+#MainContent p, #MainContent blockquote, #MainContent ul, #MainContent ol, #MainContent dl, #MainContent table, #MainContent pre {
     margin-top: 0;
     margin-bottom: 15px;
 }
-#Main UL {
+#MainContent UL {
     padding-inline-start: 30px;
 }
-#Main LI {
+#MainContent LI {
     margin-bottom: 5px;
-}
-
-#Sidebar HR {
-    height: 1px; 
-    background-color: black; 
-    margin: 30px 0px 20px 0px;
-}
-#Sidebar UL {
-    color: red;
-    padding-inline-start: 30px;    
-}
-#Sidebar H2 {
-    border-bottom: 0px solid #222;
-    padding: 0px;
-}
-#Sidebar H3 {
-    border: none;
-    padding: 0px;
-}
-#Sidebar LI {
-    margin: 5px 0px;
-    padding: 0px 0px 5px 0px;
 }
 
 /* Footer Section Styles */
