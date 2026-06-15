@@ -47,7 +47,7 @@ body {
 /* Area Nav Section Styles */
 
 #AreaContainer {
-    color: rgba(255,204,46);
+    background: rgba(255,204,46);
     font-weight: 1000;
 }
 #AreaContent UL {
