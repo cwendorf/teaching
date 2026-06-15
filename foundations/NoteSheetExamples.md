@@ -8,7 +8,7 @@
 
 ### The Logic of Allowing Note Sheets
 
-In my Social, Cultural, and Personality Psychology courses, I allow students to use one page of notes during both the multiple-choice and essay portions of an exam. This practice is grounded in my belief that I write questions that are quite broad (which many students interpret as “challenging”). These questions require students to synthesize material by describing the relevant concepts or theories that they believe are relevant, by providing everyday examples of the concept at hand, and to examine exemplary empirical evidence. 
+In my Social, Cultural, and Personality Psychology courses, I allow students to use one page of notes during both the multiple-choice and essay portions of an exam. This practice is grounded in my belief that I write questions that are quite broad (which many students interpret as “challenging”). These questions require students to synthesize material by describing the relevant concepts or theories that they believe are relevant, by providing everyday examples of the concept at hand, and to examine exemplary empirical evidence.
 
 These exams amount to a hefty task if the student is expected to memorize many details. Thus, to alleviate students’ need to memorize all of the details – indeed, to reduce their cognitive load during the exam – I permit a note sheet. As a result, I believe that the students can better focus on the integration and interrelationships during the exam period.
 
@@ -37,7 +37,7 @@ The box below presents a portion of a student’s note sheet for a Social Psycho
 - This student clearly utilized an outline type of note sheet. This represents a fairly strong attempt to list what the student believed were the most important details and ideas for each question. This also represents that the student either pruned out details that were not perceived as being important or that the student already had memorized.
 - This student’s note sheet was primarily organized around the pool of essay questions. Although this may be practical, it is likely that these notes were less advantageous during the multiple choice portion of the exam.
 - Because the essay question for this exam would have required students to explain relevant empirical studies in some significant detail, a considerable amount of useful detail is probably missing from this note sheet.
- 
+
 ## Sample Note Sheet #2
 
 ### A Portion of a Student’s Note Sheet
@@ -50,7 +50,7 @@ The box below presents a portion of a student’s note sheet for a Psychology an
 
 - This student partially utilized an outline type of note sheet. There is certainly some level of organization of the information but, to me at least, the organization is a bit haphazard.
 - Although this student’s note sheet was partially organized around the pool of essay questions, it is also organized around the relevant topics and theories. Again, this would seem to be both practical and useful for both the multiple-choice and essay portions of the exam.
-- The student’s inclusion of diagrams and graphs represents some attention to detail. These were definitely useful in answering questions on both portions of the exam. 
+- The student’s inclusion of diagrams and graphs represents some attention to detail. These were definitely useful in answering questions on both portions of the exam.
 
 ## Sample Note Sheet #3
 

@@ -17,7 +17,7 @@ In general, questions, activities, and problems are designed to assess a moderat
 Regardless of what task you are asked to do (such as explain a theory, work a statistics problem, or provide an example), the same three basic, inter-related indicators of quality are applicable:
 
 - “Appropriateness” – The extent to which the ideas or method are relevant to the question
-- “Correctness” – The extent to which the statements or work is correct and accurate 
+- “Correctness” – The extent to which the statements or work is correct and accurate
 - “Completeness” – The extent to which a complete or integrated answer is given
 
 Put simply, a good answer clearly communicates a clear, insightful, and elegant answer to the question at hand. A concise, but thorough, statement is always the ticket to a good grade; an unnecessarily lengthy answer gives the reader the impression that you are not organized and that you do not fully grasp the topic. Similarly, instructors can only judge the quality of an answer by what is explicitly written, not by what the student “had in mind” when writing the answer.
@@ -33,13 +33,13 @@ In general, your level of performance in achieving these indicators of quality c
 
 ### Content of the Response
 
-Most often, I am interested in your ability to provide solid explanations or applications of theories and concepts, research evidence and everyday examples, methodological and statistical procedures, or conclusions and future directions. For each of these components, the levels of performance apply as follows: 
+Most often, I am interested in your ability to provide solid explanations or applications of theories and concepts, research evidence and everyday examples, methodological and statistical procedures, or conclusions and future directions. For each of these components, the levels of performance apply as follows:
 
 | Category | Unacceptable (0 Points) | Problematic (1 Point) | Satisfactory (2 Points) | Commendable (3 Points) |
 | :- | - | - | - | - |
-| Specific Component (0-3 Points) | Response has irrelevant, incorrect, or incomplete information. | Response has vague relevance, major inaccuracies, or insufficient detail. |  Response has implied relevance, minor inaccuracies, or broad detail. | Response has explicit relevance, no inaccuracies, and thorough detail. | 
+| Specific Component (0-3 Points) | Response has irrelevant, incorrect, or incomplete information. | Response has vague relevance, major inaccuracies, or insufficient detail. | Response has implied relevance, minor inaccuracies, or broad detail. | Response has explicit relevance, no inaccuracies, and thorough detail. |
 
-In the case of sorter course assessments – such as simple self-assessments – the response involves less effort or less explanation and, thus, generally take less weight in grading. 
+In the case of sorter course assessments – such as simple self-assessments – the response involves less effort or less explanation and, thus, generally take less weight in grading.
 
 | Category | Unacceptable (0 Points) | Acceptable (1 Point) |
 | :- | - | - |
@@ -51,7 +51,7 @@ At the same time, submitted work should be more than a bulleted list or disorgan
 
 | Category | Unacceptable (0 Points) | Problematic (1 Point) | Satisfactory (2 Points) | Commendable (3 Points) |
 | :- | - | - | - | - |
-| Specific Component (0-3 Points) | Execution has improper format, incorrect usage, or no integration. | Execution has inadequate format, major errors, or haphazard integration. |  Execution has inconsistent format, minor errors, or adequate integration. | Execution has proper format, minimal errors, and good integration. |
+| Specific Component (0-3 Points) | Execution has improper format, incorrect usage, or no integration. | Execution has inadequate format, major errors, or haphazard integration. | Execution has inconsistent format, minor errors, or adequate integration. | Execution has proper format, minimal errors, and good integration. |
 
 In the case of sorter course assessments – such as in-class essays – the quality of the mechanics may become less of an emphasis than it was for longer assessments.
 
@@ -61,17 +61,17 @@ In the case of sorter course assessments – such as in-class essays – the qua
 
 ## Combining the Criteria for Specific Course Assessments
 
-Most course assessments involve multiple criteria. In these cases, each of the components would be assessed using a version of tasks and rubric categories above. The appropriate combined rubric for the course assessment will simply stack the separate categories to create a final rubric and the point total will be determined similarly. Some assessments are relatively simple and will contain only a couple of rubric categories, whereas other assessments – such as exams, papers, projects, etc. – are relatively complex tasks that contain many components. 
+Most course assessments involve multiple criteria. In these cases, each of the components would be assessed using a version of tasks and rubric categories above. The appropriate combined rubric for the course assessment will simply stack the separate categories to create a final rubric and the point total will be determined similarly. Some assessments are relatively simple and will contain only a couple of rubric categories, whereas other assessments – such as exams, papers, projects, etc. – are relatively complex tasks that contain many components.
 
 ### Specific Criteria for Worksheets
 
-Worksheet-based questions are relatively simple tasks that are generally appropriate for activities. Their purpose is to provide you with an opportunity to practice identifying appropriate examples of a concept or describing research evidence. Because these typically exist as pre-organized worksheets, formal writing style has less weight; however, some level of proper writing (i.e., sentence and paragraph structure, etc.) would be necessary for clarity. 
+Worksheet-based questions are relatively simple tasks that are generally appropriate for activities. Their purpose is to provide you with an opportunity to practice identifying appropriate examples of a concept or describing research evidence. Because these typically exist as pre-organized worksheets, formal writing style has less weight; however, some level of proper writing (i.e., sentence and paragraph structure, etc.) would be necessary for clarity.
 
-| Category | Unacceptable| Problematic | Satisfactory | Commendable |
+| Category | Unacceptable | Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Applications & Evidence (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Applications & Evidence (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |
 
-| Category | Unacceptable| Acceptable |
+| Category | Unacceptable | Acceptable |
 | :- | - | - |
 | Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usuage <br/>&#9744; Poor Integration | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
 
@@ -79,23 +79,23 @@ Worksheet-based questions are relatively simple tasks that are generally appropr
 
 A similar version is used for a typical story-based problem in Statistics, where I am specifically interested in your ability reasonably implement the relevant procedure and to communicate a correct answer. And because I always ask for a short, written interpretation of the solution, there is an expected of proper written form as well (i.e., sentence structure, APA style for Results, etc.).
 
-| Category | Unacceptable| Problematic | Satisfactory | Commendable |
+| Category | Unacceptable | Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Procedure & Solution (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Procedure & Solution (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |
 
-| Category | Unacceptable| Acceptable |
+| Category | Unacceptable | Acceptable |
 | :- | - | - |
 | Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usuage <br/>&#9744; Poor Integration | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
 
-### Specific Criteria for Shorter Essays 
+### Specific Criteria for Shorter Essays
 
 Short essays are generally appropriate for homework assignments and exams. Here the purpose is to assess your ability to explain a specific concept, either in a general sense or through examples. Because it is an essay question, it will be expected to have a proper written form (i.e., sentence and paragraph structure, APA style, etc.).
 
-| Category | Unacceptable| Problematic | Satisfactory | Commendable |
+| Category | Unacceptable | Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Theories & Concepts (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |
 
-| Category | Unacceptable| Acceptable |
+| Category | Unacceptable | Acceptable |
 | :- | - | - |
 | Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usuage <br/>&#9744; Poor Integration | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
 
@@ -103,10 +103,10 @@ Short essays are generally appropriate for homework assignments and exams. Here 
 
 As a final example, a relatively longer essay/paper would be generally appropriate for take-home essays or papers. Here the purpose is to assess your ability to fully describe a concept, the evidence for its relevance, and conclusions about the topic. Because it is paper, it will be expected to have a proper written form (i.e., sentence and paragraph structure, etc.) and proper citations and references, with these aspects having considerable weight.
 
-| Category | Unacceptable| Problematic | Satisfactory | Commendable |
+| Category | Unacceptable | Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Theories & Concepts (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |
 | Applications & Evidence (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |  
-| Interpretation & Conclusion (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail | 
+| Interpretation & Conclusion (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Explicit Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |
 | Clarity & Structure (0-3 Points) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; No Integration | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Haphazard Integration | &#9744; Inconsistent Format <br/>&#9744; Minor Errors <br/>&#9744; Adequate Integration | &#9744; Proper Format <br/>&#9744; Minimal Errors <br/>&#9744; Good Integration |
 | Citations & References (0-3 Points) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; No Integration | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Haphazard Integration | &#9744; Inconsistent Format <br/>&#9744; Minor Errors <br/>&#9744; Adequate Integration | &#9744; Proper Format <br/>&#9744; Minimal Errors <br/>&#9744; Good Integration |

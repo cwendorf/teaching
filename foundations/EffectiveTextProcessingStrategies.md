@@ -31,20 +31,20 @@ In some cases, written material (like a textbook) has grouped concepts based on 
 
 ### Relationships Based on Similarity
 
-| Relationship and Definition	| Sample Key Terms	| Written Example of Relationship Type |
+| Relationship and Definition | Sample Key Terms | Written Example of Relationship Type |
 | :- | - | - |
 | Associative: Concepts are contiguous or correlated with each other | Analogous; related; parallel; similar; equivalent | “Text processing strategies like Coded Elaborative Outlines and Concept Maps are similar to each other.” |
 | Functional: Concept are related because of purpose or function | Purpose; object; function; role; intention | “Text processing strategies have the purpose of organizing the material that you read.” |
 | Structural: Concepts have a taxonomic or hierarchical relationship | Part; kind; type; category; characteristic; component; element | “A Concept Map is a type of strategy for learning from written material.” |
 | Evidentiary: Explanation of a concrete instance of a concept | Example; evidence; instance; case | “Donald (1992) provides an example of a coding system for concept maps.” |
-		
+
 ### Relationships Based on Dependency
 
-| Relationship and Definition	| Sample Key Terms	| Written Example of Relationship Type |
+| Relationship and Definition | Sample Key Terms | Written Example of Relationship Type |
 | :- | - | - |
 | Procedural: Concepts are ordered or sequenced as for steps or prerequisites | Next; previously; steps; before; after | “Text processing strategy products can be created using a series of steps, beginning with identifying the main idea or concept.” |
 | Logical: Concepts have a logical or conditional order | Leads to; builds on; if; then; conditional | “The Coded Elaborative Outline builds on the traditional outline format.” |
-| Causal: Concepts have an explicit cause-and-effect relationship | Causes; results; creates; produces; influences; impacts |“Active organization of written material results in deeper learning of the material.” |
+| Causal: Concepts have an explicit cause-and-effect relationship | Causes; results; creates; produces; influences; impacts | “Active organization of written material results in deeper learning of the material.” |
 | Critical: Explanation of the strength or weakness of a concept | Problem; solution; advantage; disadvantage | “Coded Elaborative Outlines have the advantage of being reasonably familiar.” |
 
 ## Example of an Effective Text Processing Strategy: The Coded Elaborative Outline
@@ -116,7 +116,7 @@ Purpose of this Outline: Created by Tuckman (1993), the Coded Elaborative Outlin
     </ol>
   </li>
 </ol>
- 
+
 ## Example of an Effective Text Processing Strategy: The Knowledge/Concept Map
 
 Purpose of this Concept Map: The map is a graphic representation of the relationships among concepts. It is a text processing strategy that includes (a) the labeling and organizing of concepts important for and related to a main idea, (b) a coding of the concepts’ relationships to the main idea using pre-determined organizational scheme. The example below summarizes the main concepts and principles of text processing strategies.
@@ -132,7 +132,7 @@ Coded Elaborative Outlines and Knowledge/Concept Maps are effective text process
 3. The material is categorized according to main concepts and especially the relationships among those concepts. This is, of course, the primary way in which the strategies described here are different from others that you may have used in the past.
 
 Overall, each of these conditions encourages a “deeper” processing of the reading and, therefore, provides a higher likelihood of remembering the material when necessary.
- 
+
 ## References
 
 Donald, J. G. (2002). _Learning to think: Disciplinary perspectives._ San Francisco: Jossey-Bass.
@@ -140,4 +140,3 @@ Donald, J. G. (2002). _Learning to think: Disciplinary perspectives._ San Franci
 McCagg, E. C., & Danserau, D. F. (1991). A convergent paradigm for examining knowledge mapping as a learning strategy. _Journal of Educational Research, 84,_ 317-324.
 
 Tuckman, B. W. (1993). The coded elaborative outline as a strategy to help students learn from text. _Journal of Experimental Education, 62_(1), 5-13.
-

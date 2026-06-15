@@ -17,7 +17,7 @@ University Experiential Learning Outcomes: As an Experiential Learning course in
 - Complete and approved experiential learning project.
 - Reflect on the experiential learning project in order to gain further understanding of their university education, and an enhanced sense of one’s personal responsibility as a member of a larger community.
 
-Departmental Learning Outcomes: In order to meet the objectives above, students in PSYC 399 will: 
+Departmental Learning Outcomes: In order to meet the objectives above, students in PSYC 399 will:
 
 - Use professional skills in Psychology to study, develop, implement, or apply research findings in everyday settings.
 - Complete an oral or written reflection that describes what they have learned about themselves, their experiences, and Psychology in general as a result of the project.
@@ -47,5 +47,5 @@ Below is a skeleton schedule for the semester. Note that the schedule may change
 | Weeks 4 - 5 | Prepare Study Materials | Discuss Study Implementation |
 | Weeks 6 – 13 | Collect Research Data | Discuss Implementation Issues |
 | Weeks 11 - 13 | Complete Data Entry | Discuss Data Entry Issues |
-| Weeks 14 – 15	| Write Progress Report | Discuss Future Directions |
-| Finals Week | Complete Self-Assessment/Reflection	| Discuss Semester Grade |
+| Weeks 14 – 15 | Write Progress Report | Discuss Future Directions |
+| Finals Week | Complete Self-Assessment/Reflection | Discuss Semester Grade |

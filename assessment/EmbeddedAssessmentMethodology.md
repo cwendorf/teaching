@@ -33,12 +33,12 @@ Of course, these qualitative judgments by themselves are broad and ill-defined. 
 
 To be more concrete, suppose that three students have completed a paper that is designed to assess three basic outcomes: 1) their knowledge of a particular concept, 2) their ability to apply the concept to a real-life example, and 3) their ability to provide empirical evidence for the concept. The table below reflects each student’s performance on the three learning outcomes.
 
-| Category | Outcome 1| Outcome 2 | Outcome 3 | Grading Statistics |
+| Category | Outcome 1 | Outcome 2 | Outcome 3 | Grading Statistics |
 | :- | - | - | - | - |
-| Student A | &#9744; Unacceptable <br/>&#9744; Problematic <br/>&#9744; Satisfactory <br />**&#9745;Commendable** |  &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable | &#9744; Unacceptable <br/>&#9744; Problematic <br/>&#9744; Satisfactory <br />**&#9745;Commendable** | Sum: 8<br />Percent: 88.9 |
-| Student B | &#9744; Unacceptable <br/>**&#9745;Problematic** <br/>&#9744; Satisfactory <br />&#9744; Commendable |  &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable | **&#9745;Unacceptable** <br/>&#9744; Problematic <br/>&#9744; Satisfactory <br />&#9744; Commendable | Sum: 3<br />Percent: 33.3 |
-| Student C | &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable |  &#9744; Unacceptable <br/>**&#9745;Problematic** <br/>&#9744; Satisfactory <br />&#9744; Commendable | &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable | Sum: 5<br />Percent: 55.6 |
-| Assessment Statistics | M = 2.00<br />SD = 1.00| M = 1.67<br />SD = .58| M = 1.67<br />SD = 1.52| |
+| Student A | &#9744; Unacceptable <br/>&#9744; Problematic <br/>&#9744; Satisfactory <br />**&#9745;Commendable** | &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable | &#9744; Unacceptable <br/>&#9744; Problematic <br/>&#9744; Satisfactory <br />**&#9745;Commendable** | Sum: 8<br />Percent: 88.9 |
+| Student B | &#9744; Unacceptable <br/>**&#9745;Problematic** <br/>&#9744; Satisfactory <br />&#9744; Commendable | &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable | **&#9745;Unacceptable** <br/>&#9744; Problematic <br/>&#9744; Satisfactory <br />&#9744; Commendable | Sum: 3<br />Percent: 33.3 |
+| Student C | &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable | &#9744; Unacceptable <br/>**&#9745;Problematic** <br/>&#9744; Satisfactory <br />&#9744; Commendable | &#9744; Unacceptable <br/>&#9744; Problematic <br/>**&#9745;Satisfactory** <br />&#9744; Commendable | Sum: 5<br />Percent: 55.6 |
+| Assessment Statistics | M = 2.00<br />SD = 1.00 | M = 1.67<br />SD = .58 | M = 1.67<br />SD = 1.52 | |
 
 For the sake of grading, point values are attached to each judgment of performance (Unacceptable=0, Problematic=1, Satisfactory=2, and Commendable=3). Grades for each student are then determined as either the sum of the points across outcomes or converted into percentages of the available points. In this example, Student A did quite well (8 out of 9 points, for an 88.9%), whereas the other two students did not perform up to acceptable standards on average.
 
