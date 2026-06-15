@@ -43,6 +43,9 @@ body {
 #TitleContent A:hover {
     color: rgba(255,224,66,.85);
 }
+#TitleContent A:active {
+    color: rgba(255,224,66,.85);
+}
 
 /* Area Nav Section Styles */
 
@@ -82,7 +85,7 @@ body {
     font-size: 22px;
     font-weight: 800;
     margin: 20px 0px;
-    padding: 0px;
+    padding: 0px 0px 20px 0px;
     color: #000;
     border-bottom: 1px solid #000;
 }
@@ -91,7 +94,7 @@ body {
     font-weight: 800;
     clear: both;
     margin: 20px 0px;
-    padding: 0px 0px 20px 0px;
+    padding: 0px 0px 0px 0px;
     color: #222;
 }
 #MainContent H3 {
@@ -193,9 +196,6 @@ body {
 #MainContent UL {
     padding-inline-start: 30px;
 }
-#MainContent LI {
-    margin-bottom: 5px;
-}
 
 /* Footer Section Styles */
 
@@ -215,9 +215,9 @@ body {
     margin: 0px;
 }
 #FooterContent #address A {
-    color: #333;
+    color: #512698;
     text-decoration: none;
 }
 #FooterContent #address A:hover {
-    color: red;
+    color: #63449b;
 }
