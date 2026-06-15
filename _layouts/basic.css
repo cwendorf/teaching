@@ -1,0 +1,251 @@
+
+/* For All Screen Widths */
+
+/* Global Body Styles */
+
+body {
+    margin: auto;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    color: #333;
+    background: white;
+    line-height: 1.5;
+}
+.Container {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+.Content {
+    padding: 0px 10px;
+    margin: 0px auto;
+    display: block;
+}
+
+/* Title Section Styles */
+
+#TitleContainer {
+    background: #512698;
+}
+#TitleContent {
+    display: block;
+}
+#Title {
+    display: block;
+    font-weight: 1000;
+    padding: 10px 0px;
+    font-size: 32px;
+}
+#TitleContent A {
+    color: rgba(255,204,46);
+}
+#TitleContent A:hover {
+    color: rgba(255,224,66,.85);
+}
+
+/* Area Nav Section Styles */
+
+#AreaContainer {
+    background: rgb(255, 200, 46);
+    font-weight: 1000;
+}
+#AreaContent UL {
+    list-style: none;
+    margin: 0px auto;
+    padding: 0px;
+    margin-inline: 0px;
+    margin-block: 0px;
+    padding-inline: 0px;
+}
+#AreaContent LI {
+    text-align: center;
+}
+#AreaContent A {
+    background: rgba(255,255,255,0.25);
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    font-size: 24px;
+    padding: 10px 0px;
+}
+#AreaContent A:hover {
+    background: rgba(255,255,255,0.25);
+    border-bottom: 2px solid rgba(255,255,255,0.25);
+}
+#AreaContent A.chosen {
+    background: rgba(255,255,255,0.40);
+    border-bottom: 2px solid rgba(255,255,255,0.40);
+}
+
+/* Main Section Styles */
+
+#MainContent H1 {
+    font-size: 22px;
+    font-weight: 800;
+    margin: 20px 0px;
+    padding: 0px;
+    color: #000;
+}
+#MainContent H2 {
+    font-size: 22px; 
+    font-weight: 800;
+    clear: both;
+    margin: 20px 0px;
+    padding: 0px 0px 20px 0px;
+    border-bottom: 1px solid #222;
+    color: #222;
+}
+#MainContent H3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin: 20px 0px;
+    padding: 0px;
+}
+#MainContent P {
+    padding: 0px;
+    margin: 0px;
+}
+
+#MainContent A {
+    text-decoration: none;
+    border-bottom: 1px dashed #512698;
+    color: #512698;
+}
+#MainContent A:hover {
+    border-bottom: 1px solid #63449b;
+    color: #63449b;
+}
+
+#MainContent H1 A {
+    border-bottom: none;
+}
+#MainContent H1 A:hover {
+    border-bottom: none;
+}
+#MainContent H2 A {
+    border-bottom: none;
+}
+#MainContent H2 A:hover {
+    border-bottom: none;
+}
+
+.table {
+  margin-left: 2em;
+}
+
+.screenshot {
+  text-align: center;
+  margin: 10px 0px;
+}
+.screenshot img {
+  display: inline-block;
+  width: auto;
+  max-width: 95%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+.output {
+  margin: 10px 0px 10px 10px;
+}
+.output img {
+  max-width: 95%;
+  padding: 2px;
+}
+
+/* Main Section Column Styles */
+
+#Main, #Sidebar {
+    display: block; 
+    width: 100%;
+}
+
+#Main table {
+    display: block;
+    width: 100%; 
+    overflow: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+#Main thead th {
+    background: #eee;
+}
+#Main table th, #MainContainer table td {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+}
+#Main blockquote, #Main pre {
+    padding: 5px 10px;
+    color: #666;
+    border-left: 2px solid #ddd;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#Main pre {
+    overflow: auto;
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 2px;
+    font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+}
+#Main p, #Main blockquote, #Main ul, #Main ol, #Main dl, #Main table, #Main pre {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+#Main UL {
+    padding-inline-start: 30px;
+}
+#Main LI {
+    margin-bottom: 5px;
+}
+
+#Sidebar HR {
+    height: 1px; 
+    background-color: black; 
+    margin: 30px 0px 20px 0px;
+}
+#Sidebar UL {
+    color: red;
+    padding-inline-start: 30px;    
+}
+#Sidebar H2 {
+    border-bottom: 0px solid #222;
+    padding: 0px;
+}
+#Sidebar H3 {
+    border: none;
+    padding: 0px;
+}
+#Sidebar LI {
+    margin: 5px 0px;
+    padding: 0px 0px 5px 0px;
+}
+
+/* Footer Section Styles */
+
+#FooterContainer {
+    background: #ddd;
+    color: black;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
+#FooterContent LI {
+    list-style: none;
+}
+#FooterContent UL#address {
+    font-size: 16px;
+    width: 260x;
+    padding: 10px 0px;
+    margin: 0px;
+}
+#FooterContent #address A {
+    color: #333;
+    text-decoration: none;
+}
+#FooterContent #address A:hover {
+    color: red;
+}
