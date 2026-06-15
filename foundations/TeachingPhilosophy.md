@@ -1,6 +1,8 @@
-# Teaching Philosophy
+# [`Teaching Portfolio`](../README.md)
 
-## Overview of My Teaching Philosophy
+## Teaching Philosophy
+
+### Overview of My Teaching Philosophy
 
 As I see it, my job is to facilitate your achievement of the course objectives. Thus, I am going to do what my professional training and experience suggest helps your long-term learning of important and relevant content and skills.
 
@@ -10,13 +12,13 @@ Therefore, instructors need to be effective organizers of learning experiences f
 
 Similarly, you must also take responsibility for your own learning; you cannot expect to learn and succeed if you remain passive in this course. There is an overwhelming amount of research in psychology that shows that long-term learning is most strongly related to the actions of the student (and not the instructor). Put quaintly, I cannot open up your head and pour in the knowledge and know-how. You must work to learn the material in such a way that it makes sense to you.
 
-## Course Structure and Methods
+### Course Structure and Methods
 
 The components that will be used to facilitate your learning are described in this section. All of my courses have a common core or structure. Specifically, I have tried to explain the nature of these elements and also be very clear about what these components and elements mean for you as a successful student.
 
 ![Concept Map of the Course Structure](./CourseStructure.jpg)
 
-### Independent Learning
+#### Independent Learning
 
 Independent learning is the backbone of education. Outside multimedia presentations – such as readings, videos, etc. – are and ought to be the main source of course-related content. No amount of lecturing or other classroom activities can substitute for independent learning in my courses, especially those classes that are either wholly or partially online. Therefore, doing the assigned work should be one of your top priorities for my class.
 
@@ -27,7 +29,7 @@ The textbook for this course comprises the main source for the preparatory readi
 
 Understand that a significant portion of the course information (and therefore what is on an exam or what is needed for completing the learning activities described below) is only available in these materials. If you do not use and review these course materials, you will not get a good grade in the class.
 
-### Classroom Interactions
+#### Classroom Interactions
 
 Attendance and participation in the classroom environment is also vital to your learning. I do not simply use class time to reiterate what is in the readings and videos. Class time is used to address material that is generally more difficult or not present in the other materials. Thus, you should strive to not just attend, but participate in, each and every class period.
 
@@ -40,7 +42,7 @@ Class meetings are the appropriate times to get clarifications about the course 
 
 I expect that you will show respect to the instructor and other students by acting in a professional classroom manner at all times. This includes, but is not limited to, listening and respecting the diversity of backgrounds, ideas, and opinions of the people in the room. Similarly, please limit any potentially disruptive items (such as cell phones) and behaviors (such as irrelevant conversations or packing up to leave before the class is over).
 
-### Course Assessments
+#### Course Assessments
 
 Of course, all classes have some established method for assessing the students’ skills and knowledge that are relevant to the course. Though students often look upon these assessments as a necessarily evil or as the focal point for the course, I encourage you to think of them simply as measures of your learning.
 
@@ -49,7 +51,7 @@ Your progress toward achieving the objectives (knowledge of and ability to apply
 - There will be many writing activities assigned and due at several different points in the course. These activities are designed to provide you with practice in dealing with course-related concepts. These assignments will only be available on the course site.
 - Exams for the course will of mixed variety (multiple choice, essay, and problem-based questions as relevant to the course). Exams will reflect all the material covered course. An exam review sheet and study guide will be available on the course site at least one week prior to each exam.
 
-## Participation and Attendance
+### Participation and Attendance
 
 Notice that because grading is designed to be a measure of your learning and academic performance, attendance has no logical place in the grading process. Thus, I do not give points for simply attending class. Rather, attendance in class prepares you for properly completing the learning activities and optimally prepares you for the exams.
 

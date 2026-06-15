@@ -1,10 +1,12 @@
-# Study Analysis Project
+# [`Teaching Portfolio`](../README.md)
 
-## Overview
+## Study Analysis Project
+
+### Overview
 
 Participation in this directed study is designed to give the student the opportunity to be involved in the interpretation of data from an empirical study in social/cultural psychology. The end-goal is for the student, with the instructor’s assistance, to produce a viable research poster (or presentation).
 
-## Learning Outcomes
+### Learning Outcomes
 
 PSYC 399 (Independent Study) has the following learning outcomes.
 
@@ -18,7 +20,7 @@ Departmental Learning Outcomes: In order to meet the objectives above, students 
 - Use professional skills in Psychology to study, develop, implement, or apply research findings in everyday settings.
 - Complete an oral or written reflection that describes what they have learned about themselves, their experiences, and Psychology in general as a result of the project.
 
-## Expectations
+### Expectations
 
 When enrolled in PSYC 399, you will be expected to work about 3 hours per week for every credit enrolled.  You will be expected to do the following:
 
@@ -26,13 +28,13 @@ When enrolled in PSYC 399, you will be expected to work about 3 hours per week f
 - Analyze and Interpret the Study Data: The student, in conjunction with the instructor and other students, is expected to: 1) learn and perform the basic procedures of data analysis, and 2) be involved in the interpretation of the data.
 - Create a Research Poster/Presentation: By the last day of classes for the semester, the student is expected to produce a proper research poster (or oral presentation). This poster (or presentation) shall be presented at the College of Letters and Sciences Undergraduate Research Symposium. 
 
-## Grading
+### Grading
 
 This directed study is graded and the final grade will be determined by the extent to which the student’s performance matches expectations. The above areas (meetings and discussions, analysis and interpretation, and research presentation/poster) will be equally weighted.
 
 The student’s grade will reflect the student’s contribution to these activities relative to the instructor’s and other students’ contributions to the same project. The student will be expected to complete a self-evaluation at the end of the semester, which the instructor will consider when determining the final grade.
 
-## Semester Schedule
+### Semester Schedule
 
 Below is a skeleton schedule for the semester. Note that the schedule may change as necessary and that additional details will be added during the weekly meetings.
 

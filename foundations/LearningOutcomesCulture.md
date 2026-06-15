@@ -1,10 +1,12 @@
-# Course Learning Outcomes: Cultural Psychology
+# [`Teaching Portfolio`](../README.md)
 
-## Overview of Learning Outcomes
+## Course Learning Outcomes: Cultural Psychology
+
+### Overview of Learning Outcomes
 
 Learning outcomes are descriptions of what students should be able to know and do following a particular course or program. Learning outcomes are useful in that they identify a set of goals for instructors to use in their teaching. These learning outcomes provide an essential set of building blocks for the assessment of students’ performance. Most universities and professional organizations recommend that instructors identify a set of objectives for each course and assess the extent to students meet these objectives.
 
-### Relevant Local and National Learning Outcomes
+#### Relevant Local and National Learning Outcomes
 
 The American Psychological Association (APA, 2023) offers a list of student learning outcomes for all psychology curricula. For my content courses, the following outcomes are particularly relevant. Students completing this course should be able to:
 
@@ -24,7 +26,7 @@ The University of Wisconsin – Stevens Point (2017) specifies three learning ou
 - Explain how individuals or groups in the United States have responded to the experience of discrimination and inequality. (UWSP GEP USD Outcome 2)
 - Demonstrate understanding of and empathetic insight about diverse cultural perspectives in the United States. (UWSP GEP USD Outcome 3)
 
-### Specific Learning Outcomes for My Course
+#### Specific Learning Outcomes for My Course
 
 I have outlined specific learning outcomes that are designed to encompass and combine the UWSP and APA learning outcomes described above. I believe that by fulfilling these learning outcomes, students will meet the spirit of both the UWSP and APA outcomes. Specifically, students completing this course will:
 
@@ -34,7 +36,7 @@ I have outlined specific learning outcomes that are designed to encompass and co
 - Demonstrate understanding of and empathetic insight about diverse cultural groups at the local, national, and global levels.
 - Demonstrate effective scientific writing that communicates the understanding, application, and interpretation of cultural psychology principles and research.
 
-### How the Learning Outcomes are Addressed and Assessed in My Course
+#### How the Learning Outcomes are Addressed and Assessed in My Course
 
 The relevant learning outcomes are outlined on the first day of the course, are explicitly emphasized throughout the course, and form the cornerstone of the grading rubric used in the course (see Wendorf, 2017). Overall, I encourage all of my students to be familiar with this information because it explains why and how the various assignments and exams in the course are important.
 
@@ -48,7 +50,7 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
 | Demonstrate understanding of and empathetic insight about diverse cultural groups at the local, national, and global levels. | Course materials and all in-class elements use many cultural groups examples to emphasize the key principles of the course. | In-class exams – both the essay and multiple choice sections – require students to use cultural examples to highlight the connections to knowledge and applications aspects. | For the written portions, students receive a rubric that shows their level of performance on this objective. Written comments are also made on the student work. |
 | Demonstrate effective scientific writing that communicates the understanding, application, and interpretation of cultural psychology principles and research. | Out-of-class activities provide ample opportunities to address the concerns above and do write about them using effective writing. | Both the in-class essays and the out-of-class activities serve as assessments of the ability to use effective scientific writing. | For the written portions, students receive a rubric that shows their level of performance on this objective. Written comments are also made on the student work. |
 
-## References
+### References
 
 American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. Retrieved from [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
