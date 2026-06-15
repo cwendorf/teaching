@@ -1,9 +1,5 @@
 # Teaching Philosophy
 
-- **Author:** Craig A. Wendorf, Ph.D.
-- **Institution:** University of Wisconsin - Stevens Point
-- **Contact:** cwendorf@uwsp.edu
-
 ## Overview of My Teaching Philosophy
 
 As I see it, my job is to facilitate your achievement of the course objectives. Thus, I am going to do what my professional training and experience suggest helps your long-term learning of important and relevant content and skills.

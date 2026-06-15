@@ -1,9 +1,5 @@
 # Study Analysis Project
 
-- Craig A. Wendorf, Ph.D.
-- University of Wisconsin - Stevens Point
-- cwendorf@uwsp.edu
-
 ## Overview
 
 Participation in this directed study is designed to give the student the opportunity to be involved in the interpretation of data from an empirical study in social/cultural psychology. The end-goal is for the student, with the instructor’s assistance, to produce a viable research poster (or presentation).

@@ -1,9 +1,5 @@
 # Grading Rubric Examples
 
-- **Author:** Craig A. Wendorf, Ph.D.
-- **Institution:** University of Wisconsin - Stevens Point
-- **Contact:** cwendorf@uwsp.edu
-
 ## Overview
 
 This document provides a few graded examples of two basic types of written material from my courses: essay questions and activity worksheets. You are encouraged to [first read the full explanation of my grading guidelines](./GradingRubricExplanation.md).

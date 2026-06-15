@@ -1,9 +1,5 @@
 # Course Learning Outcomes: Statistics for Psychologists
 
-- **Author:** Craig A. Wendorf, Ph.D.
-- **Institution:** University of Wisconsin - Stevens Point
-- **Contact:** cwendorf@uwsp.edu
-
 ## Overview of Learning Outcomes
 
 Learning outcomes are descriptions of what students should be able to know and do following a particular course or program. Learning outcomes are useful in that they identify a set of goals for instructors to use in their teaching. These learning outcomes provide an essential set of building blocks for the assessment of students’ performance. Most universities and professional organizations recommend that instructors identify a set of objectives for each course and assess the extent to students meet these objectives.

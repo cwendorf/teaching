@@ -1,9 +1,5 @@
 # Grading Rubric Explanation
 
-- **Author:** Craig A. Wendorf, Ph.D.
-- **Institution:** University of Wisconsin - Stevens Point
-- **Contact:** cwendorf@uwsp.edu
-
 ## Overview of My Grading Criteria
 
 ### Purpose of Course Assessments

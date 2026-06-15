@@ -1,9 +1,5 @@
 # Effective Text Processing Strategies
 
-- **Author:** Craig A. Wendorf, Ph.D.
-- **Institution:** University of Wisconsin - Stevens Point
-- **Contact:** cwendorf@uwsp.edu
-
 ## Overview of Text Processing Strategies
 
 ### Types of Text Processing Strategies

@@ -1,9 +1,5 @@
 # Note Sheet Examples
 
-- **Author:** Craig A. Wendorf, Ph.D.
-- **Institution:** University of Wisconsin - Stevens Point
-- **Contact:** cwendorf@uwsp.edu
-
 ## Overview of Note Sheets for Exams
 
 ### The Logic of Allowing Note Sheets
