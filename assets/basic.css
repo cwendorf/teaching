@@ -47,8 +47,8 @@ body {
 /* Area Nav Section Styles */
 
 #AreaContainer {
-    background: rgba(255,204,46);
     font-weight: 1000;
+    background: rgba(255,204,46);
 }
 #AreaContent UL {
     list-style: none;
@@ -88,8 +88,8 @@ body {
     font-weight: 800;
     margin: 20px 0px;
     padding: 0px 0px 20px 0px;
-    color: #000;
     border-bottom: 1px solid #000;
+    color: #000;    
 }
 #MainContent H3 {
     font-size: 20px;
