@@ -139,6 +139,11 @@ body {
   margin-left: 2em;
 }
 
+#MainContent IMG {
+  width: auto;
+  max-width: 95%;
+}
+
 .screenshot {
   text-align: center;
   margin: 10px 0px;
