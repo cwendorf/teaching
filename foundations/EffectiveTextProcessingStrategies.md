@@ -119,7 +119,7 @@ Purpose of this Outline: Created by Tuckman (1993), the Coded Elaborative Outlin
 
 Purpose of this Concept Map: The map is a graphic representation of the relationships among concepts. It is a text processing strategy that includes (a) the labeling and organizing of concepts important for and related to a main idea, (b) a coding of the concepts’ relationships to the main idea using pre-determined organizational scheme. The example below summarizes the main concepts and principles of text processing strategies.
 
-![Concept Maps Example](./CMapExample.jpg)
+![Concept Maps Example](./figures/CMapExample.jpg)
 
 ### Why are These Strategies Effective?
 

@@ -28,7 +28,7 @@ The remainder of this document provides examples of actual student note sheets f
 
 The box below presents a portion of a student’s note sheet for a Social Psychology exam on social influence (conformity, obedience, persuasion, etc.). This exam covered approximately half of the course material. For this exam, students had access to a pool of essay questions ahead of time.
 
-![Note Sheet Example 1](./NotesExample1.jpg)
+![Note Sheet Example 1](./figures/NotesExample1.jpg)
 
 #### My Thoughts about this Note Sheet
 
@@ -42,7 +42,7 @@ The box below presents a portion of a student’s note sheet for a Social Psycho
 
 The box below presents a portion of a student’s note sheet for a Psychology and Culture exam on psychological manifestations of culture (culture’s impact on the self, on cognition, etc.) and intercultural processes (acculturation, etc.). This exam covered approximately one-third of the course material. For this exam, students had access to a pool of essay questions ahead of time.
 
-![Note Sheet Example 2](./NotesExample2.jpg)
+![Note Sheet Example 2](./figures/NotesExample2.jpg)
 
 #### My Thoughts about this Note Sheet
 
@@ -56,7 +56,7 @@ The box below presents a portion of a student’s note sheet for a Psychology an
 
 Like the previous example, the box below presents a portion of a student’s note sheet for a Psychology and Culture exam on psychological manifestations of culture (culture’s impact on the self, on cognition, etc.) and intercultural processes (acculturation, etc.). This exam covered approximately one-third of the course material. For this exam, students had access to a pool of essay questions ahead of time.
 
- ![Note Sheet Example 3](./NotesExample3.jpg)
+ ![Note Sheet Example 3](./figures/NotesExample3.jpg)
 
 #### My Thoughts about this Note Sheet
 
@@ -70,7 +70,7 @@ Like the previous example, the box below presents a portion of a student’s not
 
 Like the first example, the box below presents a portion of a student’s note sheet for a Social Psychology exam on social influence (conformity, obedience, persuasion, etc.). This exam covered approximately half of the course material. For this exam, students had access to a pool of essay questions ahead of time.
 
- ![Note Sheet Example 4](./NotesExample4.jpg)
+ ![Note Sheet Example 4](./figures/NotesExample4.jpg)
 
 #### My Thoughts about this Note Sheet
 

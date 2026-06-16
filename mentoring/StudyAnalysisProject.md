@@ -8,8 +8,6 @@ Participation in this directed study is designed to give the student the opportu
 
 ### Learning Outcomes
 
-PSYC 399 (Independent Study) has the following learning outcomes.
-
 University Experiential Learning Outcomes: As an Experiential Learning course in the University’s General Education Program, students in this course will:
 
 - Complete and approved experiential learning project.

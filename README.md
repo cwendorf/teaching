@@ -2,7 +2,7 @@
 
 ## Overview
 
-### Contact
+### Bio
 
 I am a Professor of Psychology at the University of Wisconsin - Stevens Point (UWSP), where I have taught since 2001. My teaching includes both content (e.g., Social Psychology, Cultural Psychology, Personality Psychology, etc.) and methodology (i.e., Statistics, Research Methods) courses.
 

@@ -16,7 +16,7 @@ Similarly, you must also take responsibility for your own learning; you cannot e
 
 The components that will be used to facilitate your learning are described in this section. All of my courses have a common core or structure. Specifically, I have tried to explain the nature of these elements and also be very clear about what these components and elements mean for you as a successful student.
 
-![Concept Map of the Course Structure](./CourseStructure.jpg)
+![Concept Map of the Course Structure](./figures/CourseStructure.jpg)
 
 #### Independent Learning
 

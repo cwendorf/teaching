@@ -20,7 +20,7 @@ This document provides a few graded examples of two basic types of written mater
 
 | Category | Unacceptable | Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; Poor Integration | **&#9745; Proper Format <br/>&#9745; Few or No Errors <br/>&#9745; Good Integration** |
+| Grammar & Organization (0-1 Point) | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Poor Consistency | **&#9745; Adequate Format <br/>&#9745; Few or No Errors <br/>&#9745; Adequate Consistency** |
 
 Essay grade: 1/4 Points
 
@@ -39,7 +39,7 @@ Essay grade: 1/4 Points
 
 | Category | Unacceptable | Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; Poor Integration | **&#9745; Proper Format <br/>&#9745; Few or No Errors <br/>&#9745; Good Integration** |
+| Grammar & Organization (0-1 Point) | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Poor Consistency | **&#9745; Adequate Format <br/>&#9745; Few or No Errors <br/>&#9745; Adequate Consistency** |
 
 Essay Grade: 2/4 Points
 
@@ -58,7 +58,7 @@ Essay Grade: 2/4 Points
 
 | Category | Unacceptable | Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; Poor Integration | **&#9745; Proper Format <br/>&#9745; Few or No Errors <br/>&#9745; Good Integration** |
+| Grammar & Organization (0-1 Point) | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Poor Consistency | **&#9745; Adequate Format <br/>&#9745; Few or No Errors <br/>&#9745; Adequate Consistency** |
 
 Essay Grade: 3/4 Points
 
@@ -83,7 +83,7 @@ Essay Grade: 3/4 Points
 
 | Category | Unacceptable | Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; Poor Integration | **&#9745; Proper Format <br/>&#9745; Few or No Errors <br/>&#9745; Good Integration** |
+| Grammar & Organization (0-1 Point) | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Poor Consistency | **&#9745; Adequate Format <br/>&#9745; Few or No Errors <br/>&#9745; Adequate Consistency** |
 
 Essay Grade: 4/4 Points
 
@@ -110,7 +110,7 @@ Essay Grade: 4/4 Points
 
 | Category | Unacceptable | Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>**&#9745; Poor Integration** | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
+| Grammar & Organization (0-1 Point) | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>**&#9745; Poor Consistency** | &#9744; Adequate Format <br/>&#9744; Few or No Errors <br/>&#9744; Adequate Consistency |
 
 Activity Grade: 2/4 Points
 
@@ -129,7 +129,7 @@ Activity Grade: 2/4 Points
 	a. On your SPSS output, calculate “by hand” the statistical significance test and the confidence interval using the descriptive statistic information given to you. [You do not need to recalculate the means and standard deviations.] Use appropriate marks (e.g., arrows, circles, etc.) to show that your calculations match the statistics provided by SPSS. (3 pts.)  
 	b. Describe your findings in an appropriate APA-style Results section. Be sure to follow the standards given in class. (1 pt.)
 
-![StatsAnswer](./StatsAnswer.jpg)
+![StatsAnswer](./figures/StatsAnswer.jpg)
 
 | Category | Unacceptable | Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
@@ -137,7 +137,7 @@ Activity Grade: 2/4 Points
 
 | Category | Unacceptable | Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | **&#9745; Improper Format** <br/>&#9744; Incorrect Usage <br/>&#9744; Poor Integration | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Integration |
+| Grammar & Organization (0-1 Point) | **&#9745; Inadequate Format** <br/>&#9744; Major Errors <br/>&#9744; Poor Consistency | &#9744; Adequate Format <br/>&#9744; Few or No Errors <br/>&#9744; Adequate Consistency |
 
 Activity Grade: 3/4 Points
 
@@ -173,7 +173,7 @@ Activity Grade: 3/4 Points
 
 | Category | Unacceptable | Acceptable |
 | :- | - | - |
-| Clarity & Structure (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usage <br/>&#9744; Poor Integration | **&#9745; Proper Format <br/>&#9745; Few or No Errors <br/>&#9745; Good Integration** |
+| Grammar & Organization (0-1 Point) | &#9744; Inadequate Format <br/>&#9744; Major Errors <br/>&#9744; Poor Consistency | **&#9745; Adequate Format <br/>&#9745; Few or No Errors <br/>&#9745; Adequate Consistency** |
 
 Activity Grade: 4/4 Points
 
