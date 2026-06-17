@@ -31,7 +31,7 @@ I have outlined three more specific learning outcomes that are designed to encom
 
 #### How the Learning Outcomes are Addressed and Assessed in My Course
 
-The relevant learning outcomes are outlined on the first day of the course, are explicitly emphasized throughout the course, and form the cornerstone of the grading rubric used in the course (see Wendorf, 2007). Overall, I encourage all of my students to be familiar with this information because it explains why and how the various assignments and exams in the course are important.
+The relevant learning outcomes are outlined on the first day of the course, are explicitly emphasized throughout the course, and form the cornerstone of the grading rubric used in the course. Overall, I encourage all of my students to be familiar with this information because it explains why and how the various assignments and exams in the course are important.
 
 In the table below (in a format adapted from Fink, 2003), I have outlined how my statistics course is designed around these learning outcomes. The table briefly describes the learning experiences and assessment techniques that are directly relevant to each outcome.
 
@@ -50,5 +50,3 @@ Fink, D.L. (2003). *Creating significant learning experiences: An integrated app
 Statistical Literacy Task Force. (2014). *Statistical literacy in the undergraduate psychology curriculum.* Retrieved from [http://teachpsych.org/Resources/Documents/otrp/resources/statistics/STP_Statistical%20Literacy_Psychology%20Major%20Learning%20Goals_4-2014.pdf](http://teachpsych.org/Resources/Documents/otrp/resources/statistics/STP_Statistical%20Literacy_Psychology%20Major%20Learning%20Goals_4-2014.pdf)
 
 University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* Retrieved from [http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx](http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx)
-
-Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from [https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md](https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md)

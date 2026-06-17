@@ -31,7 +31,7 @@ I have outlined four specific learning outcomes that are designed to encompass a
 
 #### How the Learning Outcomes are Addressed and Assessed in My Course
 
-The relevant learning outcomes are outlined on the first day of the course, are explicitly emphasized throughout the course, and form the cornerstone of the grading rubric used in the course (see Wendorf, 2017). Overall, I encourage all of my students to be familiar with this information because it explains why and how the various assignments and exams in the course are important.
+The relevant learning outcomes are outlined on the first day of the course, are explicitly emphasized throughout the course, and form the cornerstone of the grading rubric used in the course. Overall, I encourage all of my students to be familiar with this information because it explains why and how the various assignments and exams in the course are important.
 
 In the table below (in a format adapted from Fink, 2003), I have outlined how my statistics course is designed around these learning outcomes. The table briefly describes the learning experiences and assessment techniques that are directly relevant to each outcome.
 
@@ -49,5 +49,3 @@ American Psychological Association. (2023). *APA guidelines for the undergraduat
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
 
 University of Wisconsin – Stevens Point. (2026). *CORE General education requirements.* Retrieved from [https://www3.uwsp.edu/cger/Pages/default.aspx](https://www3.uwsp.edu/cger/Pages/default.aspx)
-
-Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from [https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md](https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md)

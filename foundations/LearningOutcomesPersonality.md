@@ -26,7 +26,7 @@ I have outlined specific learning outcomes that are designed to reflect the APA 
 
 #### How the Learning Outcomes are Addressed and Assessed in My Course
 
-The relevant learning outcomes are outlined on the first day of the course, are explicitly emphasized throughout the course, and form the cornerstone of the grading rubric used in the course (see Wendorf, 2017). Overall, I encourage all of my students to be familiar with this information because it explains why and how the various assignments and exams in the course are important.
+The relevant learning outcomes are outlined on the first day of the course, are explicitly emphasized throughout the course, and form the cornerstone of the grading rubric used in the course. Overall, I encourage all of my students to be familiar with this information because it explains why and how the various assignments and exams in the course are important.
 
 In the table below (in a format adapted from Fink, 2003), I have outlined how my course is designed around these learning outcomes. The table briefly describes the learning experiences and assessment techniques that are directly relevant to each outcome.
 
@@ -42,5 +42,3 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
 American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. Retrieved from [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
-
-Wendorf, C. A. (2017). *Grading rubric and explanation: For all of my courses.* Retrieved from [https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md](https://github.com/cwendorf/teaching/blob/main/assessment/GradingRubricExplanation.md)
