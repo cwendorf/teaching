@@ -14,15 +14,15 @@ In general, questions, activities, and problems are designed to assess a moderat
 
 Regardless of the task you are asked to complete (such as explaining a theory, solving a statistical problem, or providing an example), the same three basic, interrelated indicators of quality apply to the content of your response:
 
-- “Appropriateness” – The extent to which the ideas or method are relevant to the question
-- “Correctness” – The extent to which the statements or work is correct and accurate
-- “Completeness” – The extent to which a complete or integrated answer is given
+- Appropriateness – The extent to which the ideas or method are relevant to the question
+- Correctness – The extent to which the statements or work is correct and accurate
+- Completeness – The extent to which a complete or integrated answer is given
 
 Similarly, there are interrelated indicators of quality of the technical Implementation of your work, whether communicated in writing or speech:
 
-- “Format” – The extent to which formal conventions are followed
-- “Usage” – The extent to which the language is correct and clear
-- “Consistency” – The extent to which mechanics are applied uniformly and reliably
+- Format – The extent to which formal conventions are followed
+- Usage – The extent to which the language is correct and clear
+- Consistency – The extent to which mechanics are applied uniformly and reliably
 
 In general, your level of performance in achieving these indicators of quality can be judged on the following general rubric. For each task involved in an answer, performance on that task will be rated as being one of the following:
 
