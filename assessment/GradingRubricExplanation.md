@@ -67,7 +67,7 @@ Most course assessments involve multiple criteria. In these cases, each of the c
 
 #### Specific Criteria for Shorter Essays
 
-Short essays are generally appropriate for homework assignments and exams. Here the purpose is to assess your ability to explain a specific concept, either in a general sense or through examples. Because it is an essay question, it will be expected to have a proper written form (i.e., sentence and paragraph structure, APA style, etc.).
+Short essays are generally appropriate for exams. Here the purpose is to assess your ability to explain a specific concept, either in a general sense or through examples. Because it is an essay question, it will be expected to have a proper written form (i.e., sentence and paragraph structure, APA style, etc.).
 
 | Category | Unacceptable (0 Points) | Problematic (1 Point) | Satisfactory (2 Points) | Commendable (3 Points) |
 | :- | - | - | - | - |
@@ -91,7 +91,7 @@ A similar version is used for a typical story-based problem in Statistics, where
 
 #### Specific Criteria for Worksheets
 
-Worksheet-based questions provide you with an opportunity to practice identifying appropriate examples of a concept or describing research evidence. They often require some preparatory work like taking a self-assessment or identifying a research article. They also typically have multiple sections for describing evidence and for reflecting on the meaning. Because these typically exist as pre-organized worksheets, formal writing style has less weight; however, some level of proper writing (i.e., sentence and paragraph structure, etc.) would be necessary for clarity.
+Worksheets provide you with an opportunity to practice identifying appropriate examples of a concept or describing research evidence. They often require some preparatory work like taking a self-assessment or identifying a research article. They also typically have multiple sections for describing evidence and for reflecting on the meaning. Because these typically exist as pre-organized worksheets, formal writing style has less weight; however, some level of proper writing (i.e., sentence and paragraph structure, etc.) would be necessary for clarity.
 
 | Category | Unacceptable (0 Points) | Problematic (1 Point) | Satisfactory (2 Points) | Commendable (3 Points) |
 | :- | - | - | - | - |
