@@ -49,4 +49,4 @@ Fink, D.L. (2003). *Creating significant learning experiences: An integrated app
 
 Statistical Literacy Task Force. (2014). *Statistical literacy in the undergraduate psychology curriculum.* Retrieved from [http://teachpsych.org/Resources/Documents/otrp/resources/statistics/STP_Statistical%20Literacy_Psychology%20Major%20Learning%20Goals_4-2014.pdf](http://teachpsych.org/Resources/Documents/otrp/resources/statistics/STP_Statistical%20Literacy_Psychology%20Major%20Learning%20Goals_4-2014.pdf)
 
-University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* Retrieved from [http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx](http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx)
+University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* [http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx](http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx)

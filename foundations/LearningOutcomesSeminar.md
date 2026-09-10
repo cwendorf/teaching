@@ -57,4 +57,4 @@ American Psychological Association. (2023). *APA guidelines for the undergraduat
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
 
-University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* Retrieved from http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx
+University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* [http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx](http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx)

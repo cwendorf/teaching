@@ -52,8 +52,8 @@ In the table below (in a format adapted from Fink, 2003), I have outlined how my
 
 ### References
 
-American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. Retrieved from [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
+American Psychological Association. (2023). *APA guidelines for the undergraduate psychology major (Version 3.0).* Washington, DC: Author. [https://www.apa.org/about/policy/undergraduate-psychology-major.pdf](https://www.apa.org/about/policy/undergraduate-psychology-major.pdf)
 
 Fink, D.L. (2003). *Creating significant learning experiences: An integrated approach to designing college courses.* San Francisco: Jossey-Bass.
 
-University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* Retrieved from [http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx](http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx)
+University of Wisconsin – Stevens Point. (2012). *GEP learning outcomes.* [http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx](http://www.uwsp.edu/acadaff/GEP/GEP_Category_Learning_Outcomes.docx)
