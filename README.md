@@ -6,7 +6,7 @@ I am a Professor of Psychology and Assistant Dean of the School of Behavioral an
 
 ### Teaching Interests
 
-- **Psychology Content Courses:** Courses that focus on psychological principles and their applications (e.g., Personality Psychology, Social Psychology, and Psychology and Culture).
+- **Psychology Content Courses:** Courses that focus on psychological principles and their applications (e.g., Personality Psychology, Social Psychology, and Cultural Psychology).
 - **Psychology Methodology Courses:** Courses that emphasize scientific reasoning and applying methods to psychological questions (e.g., Research Methods in Psychology and Statistics for Psychologists).
 
 ### Available Materials
