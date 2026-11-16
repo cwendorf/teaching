@@ -2,6 +2,9 @@
 
 ## Teaching Materials
 
+> [!IMPORTANT]
+> This repository is my unofficial teaching portfolio. It is a collection of documents that are useful for my students across my many courses. It is not a replacement for the materials available on Canvas.
+
 I am a Professor of Psychology and Assistant Dean of the School of Behavioral and Social Sciences at the University of Wisconsin–Stevens Point.
 
 ### Teaching Interests
