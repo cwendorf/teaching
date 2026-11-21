@@ -16,7 +16,7 @@ I have also tried to clearly describe my approach to grading various course asse
 
 These surveys invite students to reflect on their perceived progress toward course learning outcomes and consider how course readings, lectures, and activities have supported their learning. They also provide feedback about which aspects of a course have been most helpful and what could be improved.
 
-- [Psychology and Culture](./SelfAssessmentCulture.md)
-- [Personality Psychology](./SelfAssessmentPersonality.md)
 - [Research Methods in Psychology](./SelfAssessmentMethods.md)
 - [Statistics for Psychologists](./SelfAssessmentStatistics.md)
+- [Personality Psychology](./SelfAssessmentPersonality.md)
+- [Cultural Psychology Seminar](./SelfAssessmentSeminar.md)

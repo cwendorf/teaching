@@ -21,7 +21,5 @@ Importantly, I have outlined the primary learning outcomes for each of my course
 
 When learning from written materials (such as textbooks), it is useful to implement an effective text processing strategy. These strategies are also useful more broadly as studying techniques. Students are encouraged to review these ideas and use them as methods for better organizing their notes. Examples of how students have (and have not) incorporated these ideas into their notes are also given.
 
-Also included are documents that provide study hints for my classes. These are must-read documents for all students taking my classes.
-
 - [Effective Text Processing Strategies](./EffectiveTextProcessingStrategies.md)
 - [Note Sheet Rules and Examples](./NoteSheetExamples.md)
