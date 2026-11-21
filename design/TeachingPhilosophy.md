@@ -48,8 +48,8 @@ Of course, all classes have some established method for assessing the studentsâ€
 
 Your progress toward achieving the objectives (knowledge of and ability to apply course material) will be assessed according to the following components: learning activities and in-class exams.
 
-- There will be many writing activities assigned and due at several different points in the course. These activities are designed to provide you with practice in dealing with course-related concepts. These assignments will only be available on the course site.
-- Exams for the course will of mixed variety (multiple choice, essay, and problem-based questions as relevant to the course). Exams will reflect all the material covered course. An exam review sheet and study guide will be available on the course site at least one week prior to each exam.
+- There will be many writing activities assigned and due at several different points in the course. These activities are designed to provide you with practice in dealing with course-related concepts.
+- Exams for the course will of mixed variety (multiple choice, essay, and problem-based questions as relevant to the course). Exams will reflect all the material covered course.
 
 ### Participation and Attendance
 

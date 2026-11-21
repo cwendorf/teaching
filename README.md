@@ -14,6 +14,6 @@ I am a Professor of Psychology and Assistant Dean of the School of Behavioral an
 
 ### Available Materials
 
-- **[Teaching Approach](./approach/README.md):** Explains the ideas behind my teaching and offer strategies for engaging with course materials.
-- **[Course Design](./design/README.md):** Describes what students are expected to learn, how course activities support those outcomes, and how work is evaluated.
-- **[Student Mentoring](./mentoring/README.md):** Describes opportunities to contribute to research projects at different stages, from study construction through analysis and presentation.
+- **[Course Design](./design/README.md):** Explains the philosophy behind my teaching, the learning outcomes for my courses, and recommended learning strategies.
+- **[Course Assessment](./assessment/README.md):** Describes grading, student self-assessment, and embedded assessment.
+- **[Student Mentoring](./mentoring/README.md):** Describes opportunities to contribute to independent research projects at different stages, from study construction through analysis and presentation.
