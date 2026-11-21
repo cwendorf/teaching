@@ -8,7 +8,7 @@ My professional interests help frame my mentoring interests, but work with stude
 
 - Social and Cultural Psychology: Notions of justice and fairness, influence of social and political values, and interpretation of sarcasm and rumors.
 - Applied Statistics and Measurement: Measurement of stress, resilience, life satisfaction, and intercultural preparedness.
-- Scholarship of Teaching and Learning: Students' classroom expectations; instructor evaluations; academic excuses; interests in psychological careers.
+- Scholarship of Teaching and Learning: Understanding students' classroom expectations, evaluations of instructors,  academic excuses, and interests in psychological careers.
 
 ### Independent Study
 
