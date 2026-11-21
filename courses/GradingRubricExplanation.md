@@ -14,9 +14,9 @@ In general, questions, activities, and problems are designed to assess a moderat
 
 Regardless of the task you are asked to complete (such as explaining a theory, solving a statistical problem, or providing an example), the same three basic, interrelated indicators of quality apply to the content of your response:
 
-- Appropriateness – The extent to which the ideas or method are relevant to the question
-- Correctness – The extent to which the statements or work is correct and accurate
-- Completeness – The extent to which a complete or integrated answer is given
+- Relevance – The extent to which the ideas or method are appropriate to the question
+- Correctness – The extent to which the statements or work is free of inaccuracies
+- Completeness – The extent to which a complete and detailed answer is given
 
 Similarly, there are interrelated indicators of quality of the technical Implementation of your work, whether communicated in writing or speech:
 
@@ -39,13 +39,13 @@ Most often, I am interested in your ability to provide explanations of theories 
 
 | Category | Unacceptable (0 Points) | Problematic (1 Point) | Satisfactory (2 Points) | Commendable (3 Points) |
 | :- | - | - | - | - |
-| Specific Component (0-3 Points) | Response has irrelevant, incorrect, or incomplete information. | Response has vague relevance, major inaccuracies, or insufficient detail. | Response has implied relevance, minor inaccuracies, or broad detail. | Response has clear relevance, no inaccuracies, and thorough detail. |
+| Specific Component (0-3 Points) | Response has irrelevant, incorrect, or incomplete information. | Response has vague relevance, major inaccuracies, or insufficient detail. | Response has implied relevance, minor inaccuracies, or broad detail. | Response has explicit relevance, no inaccuracies, and thorough detail. |
 
 In the case of sorter course assessments – such as simple self-assessments or other preparatory work – the response involves less effort or less explanation and, thus, generally take less weight in grading.
 
 | Category | Unacceptable (0 Points) | Acceptable (1 Point) |
 | :- | - | - |
-| Specific Component (0-1 Points) | Response has unclear relevance, major inaccuracies, or insufficient detail. | Response has clear relevance, few or no inaccuracies, and good detail. |
+| Specific Component (0-1 Points) | Response has unclear relevance, major inaccuracies, or insufficient detail. | Response has explicit relevance, few or no inaccuracies, and good detail. |
 
 #### Technical Mechanics of the Response
 
@@ -61,24 +61,8 @@ In the case of sorter course assessments – such as in-class essays – the qua
 | :- | - | - |
 | Specific Component (0-1 Points) | Implementation has inadequate format, major errors, or poor consistency. | Implementation has acceptable format, minor or no errors, and has adequate consistency. |
 
-### Criteria for Course Assessments
-
-#### Combining Criteria
+#### Combining Criteria for Course Assessments
 
 Most course assessments involve multiple criteria. In these cases, each of the components would be assessed using a version of response and mechanics categories above. The appropriate combined rubric for the course assessment will simply stack the separate categories to create a final rubric and the point total will be determined similarly. 
 
-Some assessments are relatively simple and will contain only a couple of rubric categories, whereas other assessments – such as essays, papers, projects, etc. – are relatively complex tasks that contain many components. 
-
-#### Specific Criteria for a Long Essay
-
-As an example, a relatively long essay would be generally appropriate for take-home activities or exams. Here the purpose is to assess your ability to fully describe a concept, provide everyday applications of those concepts, and evidence for their relevance. As an essay, it will be expected to have a proper written form (i.e., grammar, sentence and paragraph structure, etc.), though with less weight than for a paper or project.
-
-| Category | Unacceptable (0 Points) | Problematic (1 Point) | Satisfactory (2 Points) | Commendable (3 Points) |
-| :- | - | - | - | - |
-| Psychological Concepts (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Clear Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |
-| Everyday Applications (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Clear Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |  
-| Research Evidence (0-3 Points) | &#9744; Inappropriate <br/>&#9744; Incorrect <br/>&#9744; Incomplete | &#9744; Vague Relevance <br/>&#9744; Major Inaccuracies <br/>&#9744; Insufficient Detail | &#9744; Implied Relevance <br/>&#9744; Minor Inaccuracies <br/>&#9744; Broad Detail | &#9744; Clear Relevance <br/>&#9744; No Inaccuracies <br/>&#9744; Thorough Detail |
-
-| Category | Unacceptable (0 Points) | Acceptable (1 Point) |
-| :- | - | - |
-| Quality of Writing (0-1 Point) | &#9744; Improper Format <br/>&#9744; Incorrect Usuage <br/>&#9744; Poor Consistency | &#9744; Proper Format <br/>&#9744; Few or No Errors <br/>&#9744; Good Consistency |
+Some assessments are relatively simple and will contain only a couple of rubric categories, whereas other assessments – such as essays, papers, projects, etc. – are relatively complex tasks that contain many components.
